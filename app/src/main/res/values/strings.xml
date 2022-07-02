@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">319_Tereshchenko</string>
+    <string name="saf23">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="your_password">your password</string>
+    <string name="your_e_mail">your e-mail</string>
+    <string name="asd2">TODO</string>
+    <string name="remember_my">Remember my</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="button">Button</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_a_new_account">Create a new account ?</string>
+    <string name="i_accept_the_terms_of_the_agreement">I accept the terms of the agreement</string>
+    <string name="have_an_account">Have an account ?</string>
+    <string name="novosibirsk">Novosibirsk</string>
+    <string name="sdf3">TODO</string>
+    <string name="ivanov_ivan">Ivanov Ivan</string>
+    <string name="asdw">TODO</string>
+</resources>
